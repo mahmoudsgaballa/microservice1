@@ -14,7 +14,7 @@ public class Microservice1Application {
 	
 	@RestController
 	public class Ms1Controller{
-		//new comment
+		//new comment2
 //		@GetMapping("api/test/message")
 		@GetMapping("")
 		public String getMessage() {
